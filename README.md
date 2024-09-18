@@ -1,6 +1,6 @@
 # Tarek-Hatoum
 
-**`very cool person (computer science 🖥️/ music 🎹)`**
+**`very cool person (computer science 🖥️/ music 🎹)**
 
 A passionate computer science student. Experienced in developing projects with Arduino and Raspberry Pi platforms, and I'm currently diving into the world of **web development and automation**.
 
